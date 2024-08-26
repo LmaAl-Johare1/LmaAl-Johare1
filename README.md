@@ -20,7 +20,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:lmaaljohare@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Email_Icon.png" alt="Email" height="30" width="40" />
+    <img align="center" src="https://www.telegraph.co.uk/content/dam/technology/2015/12/11/gmail-envelope_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=680" alt="Email" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/lma_johare6" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
