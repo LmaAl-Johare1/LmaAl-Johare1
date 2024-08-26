@@ -9,7 +9,7 @@ Passionate about software development and excited to contribute to innovative pr
 ---
 
 ### What Drives Me:
-- **Tackling New Challenges:** 💡 I thrive on solving complex problems and finding creative solutions.
+- **Tackling New Challenges:** 💡 I thrive on solving problems and finding creative solutions.
 - **Collaborating on Cutting-Edge Projects:** 🤝 I enjoy working with teams to create innovative and impactful technology.
 - **Continual Learning and Growth:** 📚 Committed to staying current with industry trends and continuously improving my skills.
 
