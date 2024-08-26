@@ -1,184 +1,147 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .contact-container {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            align-items: center;
-            flex-wrap: wrap;
-            margin-bottom: 30px;
-        }
-        .contact-item {
-            text-align: center;
-        }
-        .contact-item img {
-            width: 40px;
-            height: 40px;
-        }
-        .contact-item p {
-            margin: 5px 0;
-            font-size: 14px;
-        }
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-            gap: 20px;
-            justify-items: center;
-            align-items: center;
-            margin-bottom: 30px;
-        }
-        .grid-item {
-            text-align: center;
-        }
-        .grid-item img {
-            width: 60px;
-            height: 60px;
-        }
-        .grid-item p {
-            margin: 5px 0;
-            font-size: 14px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hi 👋, I'm Lama Al Johare</h1>
-    <h3>Recent Computer Science Apprenticeship Program Graduate</h3>
-    <p><strong>Specialization:</strong> Software Engineering</p>
-    <p><strong>University:</strong> An-Najah National University</p>
+# Hi 👋, I'm Lama Al Johare
 
-    <p>Passionate about software development and excited to contribute to innovative projects. Committed to continuous learning and growth, with a strong focus on expanding my skills.</p>
+### Recent Computer Science Apprenticeship Program Graduate
+**Specialization:** Software Engineering  
+**University:** An-Najah National University
 
-    <h3>What Drives Me:</h3>
-    <ul>
-        <li><strong>Tackling New Challenges:</strong> 💡 I thrive on solving complex problems and finding creative solutions.</li>
-        <li><strong>Collaborating on Cutting-Edge Projects:</strong> 🤝 I enjoy working with teams to create innovative and impactful technology.</li>
-        <li><strong>Continual Learning and Growth:</strong> 📚 Committed to staying current with industry trends and continuously improving my skills.</li>
-    </ul>
+Passionate about software development and excited to contribute to innovative projects. Committed to continuous learning and growth, with a strong focus on expanding my skills.
 
-    <h3>Connect with Me:</h3>
-    <div class="contact-container">
-        <div class="contact-item">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
-            <p>LinkedIn</p>
-        </div>
-        <div class="contact-item">
-            <img src="https://www.telegraph.co.uk/content/dam/technology/2015/12/11/gmail-envelope_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=680" alt="Email"/>
-            <p>Email</p>
-        </div>
-        <div class="contact-item">
-            <img src="https://cdn-icons-png.flaticon.com/512/10764/10764027.png" alt="CV"/>
-            <p>CV</p>
-        </div>
-    </div>
+---
 
-    <h3>Languages and Tools:</h3>
+### What Drives Me:
+- **Tackling New Challenges:** 💡 I thrive on solving complex problems and finding creative solutions.
+- **Collaborating on Cutting-Edge Projects:** 🤝 I enjoy working with teams to create innovative and impactful technology.
+- **Continual Learning and Growth:** 📚 Committed to staying current with industry trends and continuously improving my skills.
 
-    <h4>Programming Languages:</h4>
-    <div class="grid-container">
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-            <p>C++</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"/>
-            <p>C#</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/>
-            <p>Java</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-            <p>JavaScript</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart"/>
-            <p>Dart</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin"/>
-            <p>Kotlin</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-            <p>TypeScript</p>
-        </div>
-    </div>
+---
 
-    <h4>Frameworks and Libraries:</h4>
-    <div class="grid-container">
-        <div class="grid-item">
-            <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter"/>
-            <p>Flutter</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS"/>
-            <p>AngularJS</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express"/>
-            <p>Express</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL"/>
-            <p>GraphQL</p>
-        </div>
-    </div>
+### Connect with Me:
 
-    <h4>Databases:</h4>
-    <div class="grid-container">
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
-            <p>MongoDB</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL"/>
-            <p>MS SQL</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
-            <p>MySQL</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"/>
-            <p>PostgreSQL</p>
-        </div>
-    </div>
+<div style="display: flex; gap: 30px; align-items: center; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <a href="https://linkedin.com/in/lma-al-johare" target="_blank" rel="noopener noreferrer">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>
+    <p>LinkedIn</p>
+  </div>
+  <div style="text-align: center;">
+    <a href="mailto:lmaaljohare@gmail.com">
+      <img src="https://www.telegraph.co.uk/content/dam/technology/2015/12/11/gmail-envelope_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=680" alt="Email" width="40" height="40"/>
+    </a>
+    <p>Email</p>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://docs.google.com/document/d/1kiJuWvkAvET5Xrr7zYhI4P44RJ_DvPLgaf8kfnESo2k/edit?usp=sharing">
+      <img src="https://cdn-icons-png.flaticon.com/512/10764/10764027.png" alt="CV" width="40" height="40"/>
+    </a>
+    <p>CV</p>
+  </div>
+</div>
 
-    <h4>Tools and Technologies:</h4>
-    <div class="grid-container">
-        <div class="grid-item">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"/>
-            <p>Git</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/>
-            <p>Postman</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"/>
-            <p>Firebase</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/>
-            <p>Figma</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet"/>
-            <p>DotNet</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin"/>
-            <p>Xamarin</p>
-        </div>
-        <div class="grid-item">
-            <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress"/>
-            <p>Cypress</p>
-        </div>
-    </div>
-</body>
-</html>
+---
+
+### Languages and Tools:
+
+**Programming Languages:** 🖥️  
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+    <p>C++</p>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
+    <p>C#</p>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+    <p>Java</p>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+    <p>JavaScript</p>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="60" height="60"/>
+    <p>Dart</p>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="60" height="60"/>
+    <p>Kotlin</p>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+    <p>TypeScript</p>
+  </a>
+</div>
+
+**Frameworks and Libraries:** 🔧  
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
+  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="60"/>
+    <p>Flutter</p>
+  </a>
+  <a href="https://angular.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="60" height="60"/>
+    <p>AngularJS</p>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60"/>
+    <p>Express</p>
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="60" height="60"/>
+    <p>GraphQL</p>
+  </a>
+</div>
+
+**Databases:** 🗄️  
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
+    <p>MongoDB</p>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="60" height="60"/>
+    <p>MS SQL</p>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+    <p>MySQL</p>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
+    <p>PostgreSQL</p>
+  </a>
+</div>
+
+**Tools and Technologies:** ⚙️  
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
+    <p>Git</p>
+  </a>
+  <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
+    <p>Postman</p>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/>
+    <p>Firebase</p>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
+    <p>Figma</p>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="60" height="60"/>
+    <p>DotNet</p>
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="60" height="60"/>
+    <p>Xamarin</p>
+  </a>
+  <a href="https://www.cypress.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="60" height="60"/>
+    <p>Cypress</p>
+  </a>
+</div>
