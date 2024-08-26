@@ -1,27 +1,29 @@
 <h1 align="center">Hi 👋, I'm Lama Al Johare</h1>
 
 <h3 align="center">
-  Aspiring Software Engineer with a Computer Science apprenticeship from An-Najah National University. Specializing in backend development with .NET and C#, I'm passionate about solving complex problems and committed to excellence. Let’s collaborate and create innovative solutions together!
+  Recent Computer Science apprenticeship graduate from An-Najah National University with a specialization in Software Engineering. Passionate about tackling challenges and committed to excellence. Ready to contribute to innovative projects and build something amazing.
 </h3>
 
 <h3 align="left">What Drives Me:</h3>
+<ul>
+  <li>Tackling new challenges</li>
+  <li>Collaborating on cutting-edge projects</li>
+  <li>Continual learning and growth</li>
+</ul>
 <p align="left">
-  I thrive on tackling new challenges and turning ideas into reality. My journey in software engineering is fueled by a deep curiosity and a desire to make a meaningful impact through technology.
+  Let’s connect and create something amazing together! 🌟
 </p>
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/lma-al-johare" target="_blank">
+  <a href="https://linkedin.com/in/lma-al-johare" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/lma_johare6" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="mailto:your.email@example.com">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
   </a>
-  <a href="link-to-your-cv" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/cv.svg" alt="CV" height="30" width="40" />
+  <a href="https://www.leetcode.com/lma_johare6" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
