@@ -4,7 +4,7 @@
 **Specialization:** Software Engineering  
 **University:** An-Najah National University
 
-Passionate about software development, problem-solving, and innovation. Eager to contribute to groundbreaking projects and continuously improve my skills.
+Passionate about software development and excited to contribute to innovative projects. Committed to continuous learning and growth, with a strong focus on expanding my skills.
 
 ---
 
@@ -17,19 +17,12 @@ Passionate about software development, problem-solving, and innovation. Eager to
 
 ### Connect with Me:
 - [LinkedIn](https://linkedin.com/in/lma-al-johare)  
-  ![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)  
-  *LinkedIn Profile*
-
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="25" height="25"/>
+  
 - [Email](mailto:lmaaljohare@gmail.com)  
-  ![Email](https://www.telegraph.co.uk/content/dam/technology/2015/12/11/gmail-envelope_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=680)  
-  *Email Address*
-
-- [LeetCode](https://www.leetcode.com/lma_johare6)  
-  ![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)  
-  *LeetCode Profile*
-
-- [CV](https://docs.google.com/document/d/1kiJuWvkAvET5Xrr7zYhI4P44RJ_DvPLgaf8kfnESo2k/edit?usp=sharing) 📄  
-  *Curriculum Vitae*
+  <img src="https://www.telegraph.co.uk/content/dam/technology/2015/12/11/gmail-envelope_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=680" alt="Email" width="25" height="25"/>
+  
+- [CV](https://docs.google.com/document/d/1kiJuWvkAvET5Xrr7zYhI4P44RJ_DvPLgaf8kfnESo2k/edit?usp=sharing) 📄
 
 ---
 
@@ -37,100 +30,70 @@ Passionate about software development, problem-solving, and innovation. Eager to
 
 **Programming Languages:** 🖥️  
 - [C++](https://www.cplusplus.com/)  
-  ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)  
-  *C++*
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
 
 - [C#](https://www.w3schools.com/cs/)  
-  ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)  
-  *C#*
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
 
 - [Java](https://www.java.com)  
-  ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)  
-  *Java*
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
-  *JavaScript*
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
 
 - [Dart](https://dart.dev)  
-  ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)  
-  *Dart*
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="30" height="30"/>
 
 - [Kotlin](https://kotlinlang.org)  
-  ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)  
-  *Kotlin*
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="30" height="30"/>
 
 - [TypeScript](https://www.typescriptlang.org/)  
-  ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)  
-  *TypeScript*
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
 
 **Frameworks and Libraries:** 🔧  
 - [Flutter](https://flutter.dev)  
-  ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)  
-  *Flutter*
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30"/>
 
 - [AngularJS](https://angular.io)  
-  ![AngularJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg)  
-  *AngularJS*
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="30" height="30"/>
 
 - [Express](https://expressjs.com)  
-  ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)  
-  *Express*
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="30" height="30"/>
 
 - [GraphQL](https://graphql.org)  
-  ![GraphQL](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg)  
-  *GraphQL*
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="30" height="30"/>
 
 **Databases:** 🗄️  
 - [MongoDB](https://www.mongodb.com/)  
-  ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)  
-  *MongoDB*
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/>
 
 - [MS SQL](https://www.microsoft.com/en-us/sql-server)  
-  ![MS SQL](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)  
-  *MS SQL*
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="30" height="30"/>
 
 - [MySQL](https://www.mysql.com/)  
-  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)  
-  *MySQL*
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
 
 - [PostgreSQL](https://www.postgresql.org)  
-  ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)  
-  *PostgreSQL*
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/>
 
 **Tools and Technologies:** ⚙️  
 - [Git](https://git-scm.com/)  
-  ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)  
-  *Git*
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
 
 - [Postman](https://www.postman.com)  
-  ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)  
-  *Postman*
-
-- [RabbitMQ](https://www.rabbitmq.com)  
-  ![RabbitMQ](https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg)  
-  *RabbitMQ*
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>
 
 - [Firebase](https://firebase.google.com/)  
-  ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)  
-  *Firebase*
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
 
 - [Figma](https://www.figma.com/)  
-  ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)  
-  *Figma*
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30"/>
 
 - [DotNet](https://dotnet.microsoft.com/)  
-  ![DotNet](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg)  
-  *DotNet*
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="30" height="30"/>
 
 - [Xamarin](https://dotnet.microsoft.com/apps/xamarin)  
-  ![Xamarin](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg)  
-  *Xamarin*
-
-- [Arduino](https://www.arduino.cc/)  
-  ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)  
-  *Arduino*
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="30" height="30"/>
 
 - [Cypress](https://www.cypress.io)  
-  ![Cypress](https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg)  
-  *Cypress*
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="30" height="30"/>
