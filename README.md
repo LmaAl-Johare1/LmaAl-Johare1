@@ -17,7 +17,7 @@ Passionate about software development and excited to contribute to innovative pr
 
 ### Connect with Me:
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
     <p style="margin: 5px 0; font-size: 14px;">LinkedIn</p>
@@ -37,7 +37,7 @@ Passionate about software development and excited to contribute to innovative pr
 ### Languages and Tools:
 
 **Programming Languages:** 🖥️  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
     <p style="margin: 5px 0; font-size: 14px;">C++</p>
@@ -69,7 +69,7 @@ Passionate about software development and excited to contribute to innovative pr
 </div>
 
 **Frameworks and Libraries:** 🔧  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="60"/>
     <p style="margin: 5px 0; font-size: 14px;">Flutter</p>
@@ -89,7 +89,7 @@ Passionate about software development and excited to contribute to innovative pr
 </div>
 
 **Databases:** 🗄️  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
     <p style="margin: 5px 0; font-size: 14px;">MongoDB</p>
@@ -109,7 +109,7 @@ Passionate about software development and excited to contribute to innovative pr
 </div>
 
 **Tools and Technologies:** ⚙️  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
     <p style="margin: 5px 0; font-size: 14px;">Git</p>
