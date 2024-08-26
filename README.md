@@ -42,7 +42,7 @@ Passionate about software development and excited to contribute to innovative pr
 
 ## Languages and Tools
 
-## Web Development
+### Web Development
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> |
 |:---:|:---:|:---:|
@@ -52,37 +52,37 @@ Passionate about software development and excited to contribute to innovative pr
 |:---:|:---:|:---:|
 | **TypeScript** | **Express.js** | **Node.js** |
 
-| <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="50" height="50"/> |  |  |
-|:---:|:---:|:---:|
-| **GraphQL** |  |  |
+| <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="50" height="50"/> |
+|:---:|
+| **GraphQL** |
 
-## Mobile Development
+### Mobile Development
 
 | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="50" height="50"/> |
 |:---:|:---:|
 | **Flutter** | **Xamarin** |
 
-## Programming Languages
+### Programming Languages
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/> |
 |:---:|:---:|:---:|
 | **C++** | **C#** | **Dart** |
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> |  |  |
-|:---:|:---:|:---:|
-| **Java** |  |  |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> |
+|:---:|
+| **Java** |
 
-## Databases
+### Databases
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> |
 |:---:|:---:|:---:|
 | **MongoDB** | **MS SQL** | **MySQL** |
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> |  |  |
-|:---:|:---:|:---:|
-| **PostgreSQL** |  |  |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> |
+|:---:|
+| **PostgreSQL** |
 
-## DevOps & Tools
+### DevOps & Tools
 
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> |
 |:---:|:---:|
