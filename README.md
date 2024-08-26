@@ -40,108 +40,118 @@ Passionate about software development and excited to contribute to innovative pr
 
 ---
 
-### Languages and Tools:
+## Languages and Tools
 
-**Programming Languages:** 🖥️  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-    <p>C++</p>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
-    <p>C#</p>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-    <p>Java</p>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-    <p>JavaScript</p>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="60" height="60"/>
-    <p>Dart</p>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="60" height="60"/>
-    <p>Kotlin</p>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-    <p>TypeScript</p>
-  </a>
-</div>
-
-**Frameworks and Libraries:** 🔧  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
-  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="60"/>
-    <p>Flutter</p>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="60" height="60"/>
-    <p>AngularJS</p>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60"/>
-    <p>Express</p>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="60" height="60"/>
-    <p>GraphQL</p>
-  </a>
-</div>
-
-**Databases:** 🗄️  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
-    <p>MongoDB</p>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="60" height="60"/>
-    <p>MS SQL</p>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-    <p>MySQL</p>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
-    <p>PostgreSQL</p>
-  </a>
-</div>
-
-**Tools and Technologies:** ⚙️  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-    <p>Git</p>
-  </a>
-  <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
-    <p>Postman</p>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/>
-    <p>Firebase</p>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
-    <p>Figma</p>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="60" height="60"/>
-    <p>DotNet</p>
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="60" height="60"/>
-    <p>Xamarin</p>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="60" height="60"/>
-    <p>Cypress</p>
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center" width="100px">
+      <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>C++</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>C#</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>Java</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>JavaScript</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://dart.dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>Dart</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100px">
+      <a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>Kotlin</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>TypeScript</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>Flutter</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://angular.io" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>AngularJS</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>Express</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100px">
+      <a href="https://graphql.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>GraphQL</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>MongoDB</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>MS SQL</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>MySQL</p>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
+      </a>
+      <br/>
+      <p>PostgreSQL</p>
+    </td>
+  </tr>
+</table>
