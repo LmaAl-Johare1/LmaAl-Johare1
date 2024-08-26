@@ -17,18 +17,18 @@ Passionate about software development and excited to contribute to innovative pr
 
 ### Connect with Me:
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-    <p style="margin: 5px 0;">LinkedIn</p>
+    <p style="margin: 5px 0; font-size: 14px;">LinkedIn</p>
   </div>
   <div style="text-align: center;">
     <img src="https://www.telegraph.co.uk/content/dam/technology/2015/12/11/gmail-envelope_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=680" alt="Email" width="40" height="40"/>
-    <p style="margin: 5px 0;">Email</p>
+    <p style="margin: 5px 0; font-size: 14px;">Email</p>
   </div>
   <div style="text-align: center;">
     <img src="https://cdn-icons-png.flaticon.com/512/10764/10764027.png" alt="CV" width="40" height="40"/>
-    <p style="margin: 5px 0;">CV</p>
+    <p style="margin: 5px 0; font-size: 14px;">CV</p>
   </div>
 </div>
 
@@ -37,105 +37,105 @@ Passionate about software development and excited to contribute to innovative pr
 ### Languages and Tools:
 
 **Programming Languages:** 🖥️  
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 20px; align-items: center; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-    <p style="margin: 5px 0;">C++</p>
+    <p style="margin: 5px 0; font-size: 14px;">C++</p>
   </div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
-    <p style="margin: 5px 0;">C#</p>
+    <p style="margin: 5px 0; font-size: 14px;">C#</p>
   </div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-    <p style="margin: 5px 0;">Java</p>
+    <p style="margin: 5px 0; font-size: 14px;">Java</p>
   </div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-    <p style="margin: 5px 0;">JavaScript</p>
+    <p style="margin: 5px 0; font-size: 14px;">JavaScript</p>
   </div>
   <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="60" height="60"/>
-    <p style="margin: 5px 0;">Dart</p>
+    <p style="margin: 5px 0; font-size: 14px;">Dart</p>
   </div>
   <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="60" height="60"/>
-    <p style="margin: 5px 0;">Kotlin</p>
+    <p style="margin: 5px 0; font-size: 14px;">Kotlin</p>
   </div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-    <p style="margin: 5px 0;">TypeScript</p>
+    <p style="margin: 5px 0; font-size: 14px;">TypeScript</p>
   </div>
 </div>
 
 **Frameworks and Libraries:** 🔧  
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 20px; align-items: center; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="60"/>
-    <p style="margin: 5px 0;">Flutter</p>
+    <p style="margin: 5px 0; font-size: 14px;">Flutter</p>
   </div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="60" height="60"/>
-    <p style="margin: 5px 0;">AngularJS</p>
+    <p style="margin: 5px 0; font-size: 14px;">AngularJS</p>
   </div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60"/>
-    <p style="margin: 5px 0;">Express</p>
+    <p style="margin: 5px 0; font-size: 14px;">Express</p>
   </div>
   <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="60" height="60"/>
-    <p style="margin: 5px 0;">GraphQL</p>
+    <p style="margin: 5px 0; font-size: 14px;">GraphQL</p>
   </div>
 </div>
 
 **Databases:** 🗄️  
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 20px; align-items: center; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
-    <p style="margin: 5px 0;">MongoDB</p>
+    <p style="margin: 5px 0; font-size: 14px;">MongoDB</p>
   </div>
   <div style="text-align: center;">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="60" height="60"/>
-    <p style="margin: 5px 0;">MS SQL</p>
+    <p style="margin: 5px 0; font-size: 14px;">MS SQL</p>
   </div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-    <p style="margin: 5px 0;">MySQL</p>
+    <p style="margin: 5px 0; font-size: 14px;">MySQL</p>
   </div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
-    <p style="margin: 5px 0;">PostgreSQL</p>
+    <p style="margin: 5px 0; font-size: 14px;">PostgreSQL</p>
   </div>
 </div>
 
 **Tools and Technologies:** ⚙️  
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 20px; align-items: center; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-    <p style="margin: 5px 0;">Git</p>
+    <p style="margin: 5px 0; font-size: 14px;">Git</p>
   </div>
   <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
-    <p style="margin: 5px 0;">Postman</p>
+    <p style="margin: 5px 0; font-size: 14px;">Postman</p>
   </div>
   <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/>
-    <p style="margin: 5px 0;">Firebase</p>
+    <p style="margin: 5px 0; font-size: 14px;">Firebase</p>
   </div>
   <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
-    <p style="margin: 5px 0;">Figma</p>
+    <p style="margin: 5px 0; font-size: 14px;">Figma</p>
   </div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="60" height="60"/>
-    <p style="margin: 5px 0;">DotNet</p>
+    <p style="margin: 5px 0; font-size: 14px;">DotNet</p>
   </div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="60" height="60"/>
-    <p style="margin: 5px 0;">Xamarin</p>
+    <p style="margin: 5px 0; font-size: 14px;">Xamarin</p>
   </div>
   <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="60" height="60"/>
-    <p style="margin: 5px 0;">Cypress</p>
+    <p style="margin: 5px 0; font-size: 14px;">Cypress</p>
   </div>
 </div>
