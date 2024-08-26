@@ -24,7 +24,7 @@ Passionate about software development and excited to contribute to innovative pr
     <img src="https://www.telegraph.co.uk/content/dam/technology/2015/12/11/gmail-envelope_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=680" alt="Email" width="30" height="30"/>
   </a>
   <a href="https://docs.google.com/document/d/1kiJuWvkAvET5Xrr7zYhI4P44RJ_DvPLgaf8kfnESo2k/edit?usp=sharing">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Google_Drive_Logo.png" alt="CV" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/10764/10764027.png" alt="CV" width="30" height="30"/>
   </a>
 </div>
 
