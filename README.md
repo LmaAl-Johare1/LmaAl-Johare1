@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lama Al Johare
 
-### Recent Computer Science Apprenticeship Program Graduate
+###  Computer Science Apprenticeship Program Graduate
 **Specialization:** Software Engineering  
 **University:** An-Najah National University
 
