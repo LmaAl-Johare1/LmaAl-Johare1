@@ -17,7 +17,7 @@ Passionate about software development and excited to contribute to innovative pr
 
 ### Connect with Me
 
-| <a href="https://linkedin.com/in/lma-al-johare" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50"/></a> | <a href="mailto:lmaaljohare@gmail.com"><img src="https://www.telegraph.co.uk/content/dam/technology/2015/12/11/gmail-envelope_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=680" alt="Email" width="50" height="50"/></a> | <a href="https://docs.google.com/document/d/1kiJuWvkAvET5Xrr7zYhI4P44RJ_DvPLgaf8kfnESo2k/edit?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/10764/10764027.png" alt="CV" width="50" height="50"/></a> |
+| <a href="https://linkedin.com/in/lma-al-johare" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50"/></a> | <a href="mailto:lmaaljohare@gmail.com"><img src="https://www.telegraph.co.uk/content/dam/technology/2015/12/11/gmail-envelope_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=680" alt="Email" width="50" height="50"/></a> | <a href="https://docs.google.com/document/d/1is43ZRMURmlEvgSV9XP3I9lRedPW8kNewHCmQmw_9-Q/edit?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/10764/10764027.png" alt="CV" width="50" height="50"/></a> |
 |:---:|:---:|:---:|
 | **LinkedIn** | **Email** | **CV** |
 
