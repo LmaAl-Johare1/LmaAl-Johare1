@@ -35,9 +35,9 @@ Passionate about software development and excited to contribute to innovative pr
 |:---:|:---:|:---:|
 | **TypeScript** | **Express.js** | **Node.js** |
 
-| <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="50" height="50"/> |
-|:---:|
-| **GraphQL** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/> | <img src="https://www.svgrepo.com/show/353944/rest-api.svg" alt="RESTful API" width="50" height="50"/> |
+|:---:|:---:|
+| **.NET Framework** | **RESTful API** |
 
 ### Mobile Development
 
